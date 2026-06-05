@@ -1,0 +1,6 @@
+{
+  "name": "ぴょんぴょん恐竜",
+  "description": "かわいいQ版恐竜の障害物ゲーム - 3ライフ制",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
